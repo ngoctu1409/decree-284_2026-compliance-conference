@@ -1,0 +1,6 @@
+{
+  "name": "Decree 284/2026 Compliance Conference",
+  "description": "Official summit and compliance framework portal for Decree 284/2026/ND-CP on Virtual Asset Service Providers (VASPs) and digital asset regulations in Vietnam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
